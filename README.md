@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is BeforeSecond
 #### I am Full Stack Developer
-![I am Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: GO / JavaScript / TypeScript / NodeJS / React / Angular / Vue / HTML / CSS / Flutter / Dart / Docker / K8S / Jenkins / Github Actions / CICD /Kafka / Firebase / RDB / Mongo / PostgreSQL / MSSQL / ElasticSearch / 
