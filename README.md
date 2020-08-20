@@ -7,6 +7,26 @@ Skills: GO / JavaScript / TypeScript / NodeJS / React / Angular / Vue / HTML / C
 - 🔭 I’m currently working on Com7 
 - 🌱 I’m currently learning Flutter 
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=fe6d96)
+![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=CSS&logoColor=white&color=fe6d96)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beforesecond)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/beforesecond)  
 
