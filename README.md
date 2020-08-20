@@ -4,7 +4,7 @@
 
 Skills: GO / JavaScript / TypeScript / NodeJS / React / Angular / Vue / HTML / CSS / Flutter / Dart / Docker / K8S / Jenkins / Github Actions / CICD /Kafka / Firebase / RDB / Mongo / PostgreSQL / MSSQL / ElasticSearch / 
 
-- 🔭 I’m currently working on Com7 
+- 🔭 I’m currently working on Com7 Public Company Limited 
 - 🌱 I’m currently learning Flutter 
 
 ## 🔧 Technologies & Tools
